@@ -1,4 +1,4 @@
-	House Plant Care was developed to be able easily to care for the plants, so the user will be able to keep track of the plants and have the information available to them. Application allows user to store the information about the plant with images and also allow user to edit them. Furthermore, the application provides an information regarding on how to care for the specific indoor plant species. Also the application allow user to enable notification, and user is able to image recognition fuction to recognize the plant species.
+House Plant Care was developed to be able easily to care for the plants, so the user will be able to keep track of the plants and have the information available to them. Application allows user to store the information about the plant with images and also allow user to edit them. Furthermore, the application provides an information regarding on how to care for the specific indoor plant species. Also the application allow user to enable notification, and user is able to image recognition fuction to recognize the plant species.
 
 
 Tools that have been used:
