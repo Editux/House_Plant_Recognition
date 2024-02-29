@@ -1,0 +1,5 @@
+0 Aloe
+1 Chinese Money Tree
+2 Snake Plant
+3 Cactus
+4 Lavender

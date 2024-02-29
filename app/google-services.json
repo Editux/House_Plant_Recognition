@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143281104010",
+    "project_id": "indoor-plants-d9956",
+    "storage_bucket": "indoor-plants-d9956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143281104010:android:350bcbb0cf6885bffd3973",
+        "android_client_info": {
+          "package_name": "com.example.indoorplantcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143281104010-l8bsa74sg4v03f74t65qlc14c9kr5bqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkqeJr_cwPGpQ5WA95PSgbxqhkz11xDDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143281104010-l8bsa74sg4v03f74t65qlc14c9kr5bqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
